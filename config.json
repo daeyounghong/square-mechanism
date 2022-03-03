@@ -1,0 +1,5 @@
+{
+  "data_dir": "data",
+  "eps": 12.5,
+  "grid_shape": [600, 300]
+}
